@@ -1,0 +1,153 @@
+[
+    {
+        "id" : 1,
+        "name" : "Masrafi Mortoza",
+        "image":"https://pbs.twimg.com/media/DMkVSjGUIAENrqp.jpg",
+        "age" : 37 ,
+        "role" : "Bowling",
+        "battingStyle" : "Right Hand Bat",
+        "bowlingStyle" : "Right fast-medium",
+        "price" : 100000
+    },
+    {
+        "id" : 2,
+        "name" : "Soumya Sarkar",
+        "image":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg",
+        "age" :  28,
+        "role" : "Batsman",
+        "battingStyle" : "Left Hand Bat",
+        "bowlingStyle" : "Right fast-medium",
+        "price" : 80000
+    },
+    {
+        "id" : 3,
+        "name" : "Tamim Iqbal",
+        "image":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893500-e1517999434590.jpg",
+        "age" : 31 ,
+        "role" : "Batsman",
+        "battingStyle" : "Left Handed Bat",
+        "bowlingStyle" : "No",
+        "price" : 90000
+    },
+    {
+        "id" : 4,
+        "name" : "Sabbir Rahman",
+        "image":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893490-e1520011381871.jpg",
+        "age" : 29 ,
+        "role" : "Batsman",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right legbreak",
+        "price" : 50000
+    },
+    {
+        "id" : 5,
+        "name" : "Mahmudullah",
+        "image":"https://pbs.twimg.com/profile_images/1181450736200060929/ibu_otes_400x400.jpg",
+        "age" : 35 ,
+        "role" : "Batting Allrounder",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right offbrack",
+        "price" : 95000
+    },
+    {
+        "id" : 6,
+        "name" : "Shakib Al Hassan",
+        "image":"https://pbs.twimg.com/profile_images/1133083380394991616/ISgUjSsA_400x400.jpg",
+        "age" : 33 ,
+        "role" : "Batting Allrounder",
+        "battingStyle" : "Left Handed Bat",
+        "bowlingStyle" : "Left Orthodox",
+        "price" : 99990
+    },
+    {
+        "id" : 7,
+        "name" : "Mohammad Saifuddin",
+        "image":"https://cdn.24.co.za/files/Cms/General/d/8051/8ecf331e65f345a19ad5ed72bfacfd62.png",
+        "age" : 24 ,
+        "role" : "Batting Allrounder",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right fast-medium",
+        "price" : 85000
+    },
+    {
+        "id" : 8,
+        "name" : "Mosaddek Hossain",
+        "image":"https://static.indiatvnews.com/ins-web/images/mosaddek-hossain-1541503881.jpg",
+        "age" : 25 ,
+        "role" : "Batting Allrounder",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right fast-medium",
+        "price" : 70000
+    },
+    {
+        "id" : 9,
+        "name" : "Mehidy Hasan",
+        "image":"https://bsmedia.business-standard.com/_media/bs/img/topic-profile/profile-images/thumb/471_471/1559631829.jpg",
+        "age" : 23 ,
+        "role" : "Bowling Allrounder",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right Offbreck",
+        "price" : 75000
+    },
+    {
+        "id" : 10,
+        "name" : "Mushfiqur Rahim",
+        "image":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+        "age" : 33 ,
+        "role" : "WK-Batsman",
+        "battingStyle" : "Right Hand Bat",
+        "bowlingStyle" : "Rightmedium",
+        "price" : 12000
+    },
+    {
+        "id" : 11,
+        "name" : "Liton Das",
+        "image":"https://cdn.wisden.com/wp-content/uploads/2019/05/Liton-DAs-e1557932559815.jpg",
+        "age" :  26,
+        "role" : "WK-Batsman",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right Hand",
+        "price" : 88000
+    },
+    {
+        "id" : 12,
+        "name" : "Mohammad Mithun",
+        "image":"https://stardom1.com/wp-content/uploads/2020/12/Mithun-2-compressed-e1607938228986.jpg",
+        "age" : 29 ,
+        "role" : "Wk-Batsman",
+        "battingStyle" : "Right Hand Bat",
+        "bowlingStyle" : "Right ",
+        "price" : 71000
+    },
+    {
+        "id" : 13,
+        "name" : "Rubel Hossain",
+        "image":"https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893494-e1520011263757.jpg",
+        "age" : 31 ,
+        "role" : "Bowler",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right fast-medium",
+        "price" : 82000
+    },
+    {
+        "id" : 14,
+        "name" : "Mustafizur Rahman",
+        "image":"http://s3.amazonaws.com/batsman/Mustafizur%20Rahman_04248d6f-b346-41cc-adb5-84f1832c55c7.JPG",
+        "age" : 25 ,
+        "role" : "Bowler",
+        "battingStyle" : "Right Hand Bat",
+        "bowlingStyle" : "left fast-medium",
+        "price" : 92000
+    },
+    {
+        "id" : 15,
+        "name" : "Abu Jayed",
+        "image":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg",
+        "age" : 27 ,
+        "role" : "Bowler",
+        "battingStyle" : "Right Handed Bat",
+        "bowlingStyle" : "Right fast-medium",
+        "price" : 78000
+    }
+
+]

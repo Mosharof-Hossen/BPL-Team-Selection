@@ -1,0 +1,13 @@
+.players{
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: center;
+    border-right : 1px solid lightgrey;
+    height: 600px;
+    overflow: scroll;
+}
+.squad-container {
+    width:30%;
+    padding: 5px 25px 5px 25px;
+}
+

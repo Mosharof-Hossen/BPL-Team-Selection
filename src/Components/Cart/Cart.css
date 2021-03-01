@@ -1,0 +1,16 @@
+.squad{
+    text-align: center;
+    color: gold;
+    margin-bottom: 30px;
+    border-bottom: 1px solid lightgrey;
+}
+.cart-hisab{
+    display: flex;
+}
+.cart-hisab h6{
+    margin-bottom: 20px;
+    width:50%;
+}
+.squad-display{
+    
+}
